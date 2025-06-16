@@ -11,7 +11,7 @@ I'm an **incoming 4th year Computer Science Student** with a passion for buildin
 ### 🏆 Achievements & Certifications
 - 🌟 **AWS Certified Cloud Practitioner** 
 - 2 Time Champion at University ACSS Programming Competition
-- 2nd Place @ CCS Programming Competition
+- 2nd Place @ University CCS Programming Competition
 - Competed @ National Level Programming Competitions (iSITE & UMAK)
 
 ## 🛠️ Tech Stack
