@@ -90,8 +90,3 @@ I'm always excited to collaborate on interesting projects, discuss tech trends, 
 
 </div>
 
----
-
-<div align="center">
-  <i>✨ "Code is poetry written in logic" ✨</i>
-</div>
