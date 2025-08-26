@@ -6,7 +6,7 @@
 
 ## 🎓 About Me
 
-I'm an **incoming 4th year Computer Science Student** with a passion for building innovative solutions and solving complex problems. When I'm not buried in code or studying algorithms, you'll find me exploring the latest in cloud technologies and building exciting projects.
+I'm a **4th year Computer Science Student** with a passion for building innovative solutions and solving complex problems. When I'm not buried in code or studying algorithms, you'll find me exploring the latest in cloud technologies and building exciting projects.
 
 ### 🏆 Achievements & Certifications
 - 🌟 **AWS Certified Cloud Practitioner** 
