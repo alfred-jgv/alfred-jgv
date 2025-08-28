@@ -64,7 +64,7 @@ I'm a **4th year Computer Science Student** with a passion for building innovati
 
 ```java
 public class Developer {
-    private String name = "Your Name";
+    private String name = "Jan Alfred Violanta";
     private String[] skills = {
         "Full-Stack Development",
         "Cloud Architecture", 
