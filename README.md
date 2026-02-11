@@ -55,15 +55,6 @@ I'm a **4th year Computer Science Student** with a passion for building innovati
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfred-jgv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfred-jgv&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfred-jgv&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
 ## 💼 Skills & Interests
 
 ```java
