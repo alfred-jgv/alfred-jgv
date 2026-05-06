@@ -5,7 +5,7 @@
 
 ## 🎓 About Me
 
-I'm a **4th year Computer Science Student** with a passion for building innovative solutions and solving complex problems. When I'm not buried in code or studying algorithms, you'll find me exploring the latest in cloud technologies and building exciting projects.
+I have a passion for building innovative solutions and solving complex problems. When I'm not buried in code or studying algorithms, you'll find me exploring the latest in cloud technologies and building exciting projects.
 
 ---
 
