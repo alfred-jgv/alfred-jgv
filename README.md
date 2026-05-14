@@ -19,8 +19,8 @@ I have a passion for building innovative solutions and solving complex problems.
 - 🗄️ **DataCamp SQL Associate**
 
 #### 🏅 Programming Competitions
-- 🥇 **2x Champion** – ACSS University Programming Competition (Java)
-- 🥈 **2nd Place** – CCS University Programming Competition (Java)
+- 🥇 **2x Champion** – ACSS Programming Competition (Java)
+- 🥈 **2nd Place** – CCS Programming Competition (Java)
 - 🏁 **Finalist** – iSITE National Programming Competition 2023
 - ⚔️ **2x Competitor** – UMAK Programming Competition (Java & C#)
 
