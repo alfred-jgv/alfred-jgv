@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Jan Alfred Violanta
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AWS+Certified+Cloud+Practitioner;Oracle+OCI+Associate;AI+%26+Cloud+Engineer;Full-Stack+Developer;Programming+Competitor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Graduate;AWS+Certified+Cloud+Practitioner;Oracle+OCI+Associate;AI+%26+Cloud+Engineer;Full-Stack+Developer;Programming+Competitor" alt="Typing SVG" />
 </div>
 
 ## 🎓 About Me
@@ -83,7 +83,7 @@ I have a passion for building innovative solutions and solving complex problems.
 
 ## 🚀 Featured Projects
 
-### 📄 FileCraft — Multi-Tool Document SaaS
+### 📄 Filera — Multi-Tool Document SaaS
 > React · TypeScript · Node.js · AWS Lambda · S3 · API Gateway · Python
 
 A serverless SaaS platform for document processing — PDF-to-Word, merging, splitting, and format conversion. Designed with a client-side + server-side pipeline to handle large file uploads efficiently.
@@ -113,7 +113,6 @@ public class Developer {
         "Full-Stack Development",
         "Cloud Architecture (AWS & OCI)",
         "Serverless & DevOps",
-        "AI Engineering",
         "Algorithm Design & Competitive Programming",
         "Agile / Scrum Leadership"
     };
