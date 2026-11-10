@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Jan Alfred Violanta
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Graduate;AWS+Certified;Software+Engineer;Full-Stack+Developer;Java+Developer;Programming+Competitor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Graduate;AWS+Certified;Software+Engineer;Full-Stack+Developer;Software+Engineer;Programming+Competitor" alt="Typing SVG" />
 </div>
 
 ## 🎓 About Me
@@ -113,21 +113,11 @@ public class Developer {
 
     public void currentFocus() {
         System.out.println("Software Engineering");
-        System.out.println("Backend Development");
         System.out.println("Full-Stack Development");
         System.out.println("Cloud Computing");
     }
 }
 ```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfred-jgv&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfred-jgv&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
 ---
 
