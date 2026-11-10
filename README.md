@@ -31,9 +31,6 @@ I'm a Computer Science graduate with a strong foundation in software engineering
 - 📚 **Dean's Lister & Top 4 in CS Program** — 2nd Sem, A.Y. 2022–2023
 
 ---
-
-## 🛠️ Tech Stack
-
 ## 🛠️ Tech Stack
 
 <div align="center">
